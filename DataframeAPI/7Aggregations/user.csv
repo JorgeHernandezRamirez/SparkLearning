@@ -1,0 +1,8 @@
+id;name;apellido;age;columna con espacios;profesion
+1;Jorge;Hernandez;31;1;Ingeniero Informatico
+2;Jose;Hernandez;32;0;Licenciado Medicina
+3;Barbara;Vazquez;27;1;Graduado Derecho
+4;Constanza;Ramirez;69;1;Administrativa
+5;Yaiza;Ramirez;40;1;
+6;Jorge;Hernandez;63;1;Licenciado Quimica
+7;Jorge;Díaz;63;1;Maestro
